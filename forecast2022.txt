@@ -1,0 +1,42 @@
+Forecast2022 Online Festival
+Curatorial statement
+
+In a planetary-scale network of material resources and information, production and consumption, living and non-living agents, the humanity is facing many different issues like global inequality and climate change, disinformation and the rise of surveillance state with it’s algorithmic control and manipulation.
+But at the same moment we are witnessing this global trend and global need in society to retribalise, to connect, to form another dimension of social cohesion, another kind of interaction.
+
+Art is not enough today. As artists, we go beyond the limitations of artistic practices. We want to rethink and reconstruct our relations to technologies, to ourselves, to each other and to non-human actors around us.
+We demand the Parliament of Things and Ideas.
+Creating communities spreading far from artistic purposes.
+Developing the new forms of creativity, connectivity and conviviality.
+Solidarity in action.
+We consider any technology as a threat but also as an opportunity to explore, to deconstruct, to hack, to subvert, to make it a tool for digital resistance.
+
+The FORECAST2022 Online Festival is a non-hierarchical, self-organized initiative of artists, scientists, curators, developers, philosophers, designers, … It is a laboratory which will present both familiar and experimental forms of online activities:
+
+online bars,
+concerts,
+performances,
+conferences,
+panels,
+readings,
+workshops,
+talks,
+lectures,
+online exhibitions
+and installations,
+etc..
+Online Festival Rules
+This rules aimed at making unified network of artwork. Only pages matches this rules can join this network. It helps create reliable frame of algorithmic hardness that allow partisipants lean on it by creating and publishing they works.
+
+Artwork Page is part of Online Festival only if it corresponds to this rules
+Participant must express his affiliation to Online Festival by including link to this document or document itself in artwork page
+There is no limitations of format and content but Artwork should have a page that one can create link to
+Online festival is held between %start date% and %end date%. Participant must provide availability of his artwork durning festival
+Artwork page must have at least one link to others artwork with explicit indication that link target is "Artwork of Online Festival". Must not be any link marked "Artwork of Online Festival" if link target is not Artwork of Online Festival. Link must be created in form <a rel="onlinefestival">...</a>. If your artwork have link in specific non-html form (javascript for example), you must duplicate html link in your page code to allow automatic check connectedness of Online Festival
+Must be possible to get (directly or indirectly) to any other Artwork of Festival from Artwork page. For new Artwork, there may be no links within 24 hours
+Comments on the rules:
+For adding the artwork you should create a page, check this page match this rules. In particular, page must include link to this document or document itself, page must link to other artwork page. After that you must notify other participants of festival to make a link to your artwork.
+
+At any time if any work that have no at least one link to itself exist more than 24 hours all other works can no longer be part of festival. It means that all participants of festival should support connectedness of artwork.
+
+There is no way to change this document durning Online Festival. There is no organizing committee or single curator at festival. Only information and rules containment in this document control evolution of Online Festival. All control processes of Festival occur by non-hierarchical interaction between partisipants.
