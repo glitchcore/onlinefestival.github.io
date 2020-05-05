@@ -1,6 +1,38 @@
+<html>
+<head>
+	<style>
+		body, html {
+			margin: 0;
+		}
+		.statement {
+			background: #000000;
+			color: #FFFFFF;
+			padding-top: 0.3em;
+			padding-bottom: 0.3em;
+			padding-left: 10%;
+			padding-right: 10%;
+		}
+
+		p {
+			padding-top: 0.5em;
+			padding-bottom: : 0.5em;
+			padding-left: 10%;
+			padding-right: 10%;
+		}
+
+		h1, h2 {
+			padding-left: 10%;
+		}
+	</style>
+</head>
+
+<body>
 <h1>Forecast2022 Online Festival</h1>
-<h2>This is Curatorial statement</h2>
-<h3>Also this page is Artwork of Online Festival</h3>
+<p>This is Curatorial statement page. It describe statement and festival rules. Also this page is valid Artwork of Online Festival.</p>
+
+<h2>Forecast2022 statement</h2>
+
+<div class="statement">
 
 <p>In a planetary-scale network of material resources and information, production and consumption, living and non-living agents, the humanity is facing many different issues like global inequality and climate change, disinformation and the rise of surveillance state with it’s algorithmic control and manipulation.</p>
 
@@ -33,21 +65,9 @@ lectures,<br>
 online exhibitions<br>
 and installations,<br>
 etc..</p>
+</div>
 
-<h2>Online Festival Rules</h2>
-
-<p>This rules aimed at making unified network of artwork. Only pages matches this rules can join this network. It helps create reliable frame of algorithmic hardness that allow partisipants lean on it by creating and publishing they works.</p>
-
-<ol>
-    <li>Artwork Page is part of Online Festival only if it corresponds to this rules</li>
-    <li>Participant must express his affiliation to Online Festival by including link to this document or document itself in artwork page</li>
-    <li>There is no limitations of format and content but Artwork should have a page that one can create link to</li>
-    <li>Online festival is held between %start date% and %end date%. Participant must provide availability of his artwork durning festival</li>
-    <li>Artwork page must have at least one link to others artwork with explicit indication that link target is "<i>Artwork of Online Festival</i>". Must not be any link marked "<i>Artwork of Online Festival</i>" if link target is not Artwork of Online Festival. Link must be created in form <code> &lt;a rel="onlinefestival"&gt;...&lt;/a&gt;</code>. If your artwork have link in specific non-html form (javascript for example), you must duplicate html link in your page code to allow automatic check connectedness of Online Festival</li>
-    <li>Must be possible to get (directly or indirectly) to any other Artwork of Festival from Artwork page. For new Artwork, there may be no links within 24 hours</li>
-</ol>
-
-<h3>Comments on the rules:</h3>
+<p>There are some very important rules. This rules aimed at making unified network of artwork. Only pages matches this rules can join this network. It helps create reliable frame of algorithmic hardness that allow partisipants lean on it by creating and publishing they works.</p>
 
 <p>For adding the artwork you should create a page, check this page match this rules. In particular, page must include link to this document or document itself, page must link to other artwork page. After that you must notify other participants of festival to make a link to your artwork.</p>
 
@@ -55,6 +75,24 @@ etc..</p>
 
 <p>There is no way to change this document durning Online Festival. There is no organizing committee or single curator at festival. Only information and rules containment in this document control evolution of Online Festival. All control processes of Festival occur by non-hierarchical interaction between partisipants.</p>
 
+<h2>Online Festival Rules. You can read <a rel="onlinefestivalstatement" href="forecast2022.txt">original text in raw form</a></h2>
+
+<div class="statement">
+
+<ol>
+    <li>Artwork Page is part of Online Festival only if it corresponds to this rules</li>
+    <li>Participant must express his affiliation to Online Festival by including link to this document or document itself in artwork page in form &lt;a href="%link%" rel="onlinefestivalstatement"&gt;...&lt;/a&gt;</li>
+    <li>Artwork should have a page that one can create link to</li>
+    <li>In his works Authors must not violate the laws of the countries in which they are citizens</li>
+    <li>There are no other limitations of format and content </li>
+    <li>Online festival is held between %start date% and %end date%. Participant must provide availability of his artwork durning festival</li>
+    <li>The author must indicate his contact email in page code in form &lt;meta name="onlinefestivalauthor" content="%email%"&gt;</li>
+    <li>Artwork page must have at least one link to others artwork with explicit indication that link target is Artwork of Online Festival by adding "[FORECAST2022]" to link text and attribute rel="onlinefestival" to link tag. Must not be any link marked this way if link target is not Artwork of Online Festival. If your artwork have link in specific non-html form (javascript for example), you must duplicate html link in your page code to allow automatic check connectedness of Online Festival</li>
+    <li>Must be possible to get (directly or indirectly) to any other Artwork of Festival from Artwork page. For new Artwork, there may be no links within 24 hours</li>
+</ol>
+
+</div>
+
 <p>You can view Rules application example in <a rel="onlinefestival" href="https://onlinefestival.github.io/connectedness-checker">connectedless checker [Online Festival Artwork]</a></p>
 
-<a rel="onlinefestivalstatement" href="forecast2022.txt">raw text</a>
+</body>
