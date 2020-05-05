@@ -30,6 +30,8 @@ etc..
 Online Festival Rules
 
 * Artwork Page is part of Online Festival only if it corresponds to this rules
+* Artwork must be available without any offline interaction with allocated place or peoples
+* If Artwork is not a webpage itself, it must be associated with its webpage: page must contain description of Artwork and way to access to it, in Artwork must be information about its page
 * Participant must express his affiliation to Online Festival by including link to this document or document itself in artwork page in form <a href="%link%" rel="onlinefestivalstatement">...</a>
 * Artwork should have a page that one can create link to
 * In his works Authors must not violate the laws of the countries in which they are citizens
